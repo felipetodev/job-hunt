@@ -1,0 +1,23 @@
+---
+const { href } = Astro.props;
+---
+<tr
+  class={`
+    border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted group ${href ? "cursor-pointer" : ""}
+  `}
+  data-href={href}
+>
+  <a href="#">
+    <slot />
+  </a>
+</tr>
+<script>
+  const $tr = document.querySelectorAll("tr[data-href]");
+
+  $tr?.forEach((tr) => {
+    tr.addEventListener("click", (e) => {
+      const href = (e.currentTarget as HTMLElement)?.dataset.href;
+      window.open(href, "_blank", "noopener noreferrer");
+    });
+  });
+</script>

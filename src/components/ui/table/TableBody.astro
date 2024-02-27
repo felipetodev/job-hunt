@@ -1,0 +1,6 @@
+---
+const { class: c } = Astro.props;
+---
+<tbody class={`[&_tr:last-child]:border-0 ${c}`}>
+  <slot />
+</tbody>

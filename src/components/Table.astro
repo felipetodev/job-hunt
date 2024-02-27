@@ -1,0 +1,56 @@
+---
+import TableCaption from "./ui/table/TableCaption.astro";
+import TableHeader from "./ui/table/TableHeader.astro";
+import TableRow from "./ui/table/TableRow.astro";
+import TableHead from "./ui/table/TableHead.astro";
+import TableBody from "./ui/table/TableBody.astro";
+import TableCell from "./ui/table/TableCell.astro";
+import CurrencyOff from "./ui/icons/CurrencyOff.astro"
+
+import jobs from "../../db/gob-jobs.json";
+---
+
+<div class="relative w-full overflow-auto p-4">
+  <table class="border w-full caption-bottom text-sm">
+    <TableCaption>
+      Siempre tomá los valores como referencia y no como un absoluto.
+    </TableCaption>
+    <TableHeader>
+      <TableRow>
+        <TableHead>Posición</TableHead>
+        <TableHead>Compañia</TableHead>
+        <TableHead>Localidad</TableHead>
+        <TableHead>Modalidad</TableHead>
+        <TableHead>Pago</TableHead>
+        <TableHead>Fecha Publicación</TableHead>
+      </TableRow>
+    </TableHeader>
+
+    <TableBody class="scroll-y-auto max-h-[80vh]">
+      {
+        jobs?.map((job) => {
+          return (
+            <TableRow href={job.url}>
+              <TableCell class="group-hover:underline underline-offset-2">
+                {job.title}
+              </TableCell>
+              <TableCell>{job.company}</TableCell>
+              <TableCell class="max-w-[30ch] truncate" title={job.location}>
+                {job.location}
+              </TableCell>
+              <TableCell>{job.modality}</TableCell>
+              <TableCell>
+                {job.payment ?? (
+                  <span class="flex items-center gap-x-2">
+                    <CurrencyOff /> N/A
+                  </span>
+                )}
+              </TableCell>
+              <TableCell>{job.published}, {job.year}</TableCell>
+            </TableRow>
+          );
+        })
+      }
+    </TableBody>
+  </table>
+</div>
