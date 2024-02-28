@@ -7,9 +7,7 @@ const { href } = Astro.props;
   `}
   data-href={href}
 >
-  <a href="#">
-    <slot />
-  </a>
+  <slot />
 </tr>
 <script>
   const $tr = document.querySelectorAll("tr[data-href]");
