@@ -23,7 +23,7 @@ const { title, description } = Astro.props;
 				<script
 					defer
 					src="https://analytics.us.umami.is/script.js"
-					data-website-id="d2d1968b-3ba2-4655-a452-88e1884ca048"
+					data-website-id={import.meta.env.DB_UMAMI_ID}
 				/>
 			)
 		}
