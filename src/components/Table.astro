@@ -5,9 +5,11 @@ import TableRow from "@/components/ui/table/TableRow.astro";
 import TableHead from "@/components/ui/table/TableHead.astro";
 import TableBody from "@/components/ui/table/TableBody.astro";
 import TableCell from "@/components/ui/table/TableCell.astro";
-import CurrencyOff from "@/components/ui/icons/CurrencyOff.astro"
+import CurrencyOff from "@/components/ui/icons/CurrencyOff.astro";
+import type { Job } from "@/types";
 
-import jobs from "../../db/gob-jobs.json";
+const res = await fetch(`${Astro.url}/api/jobs.json`)
+const jobsData = await res.json() as Job[]
 ---
 
 <div class="relative w-full overflow-auto">
@@ -28,7 +30,7 @@ import jobs from "../../db/gob-jobs.json";
 
     <TableBody class="scroll-y-auto max-h-[80vh]">
       {
-        jobs?.map((job) => {
+        jobsData?.map((job) => {
           return (
             <TableRow href={job.url}>
               <TableCell class="group-hover:underline underline-offset-2">
@@ -46,7 +48,9 @@ import jobs from "../../db/gob-jobs.json";
                   </span>
                 )}
               </TableCell>
-              <TableCell>{job.published}, {job.year}</TableCell>
+              <TableCell>
+                {job.published}, {job.year}
+              </TableCell>
             </TableRow>
           );
         })
