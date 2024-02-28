@@ -1,5 +1,115 @@
 [
   {
+    "title": "Back-end Software Engineer",
+    "company": "Cotalker",
+    "location": "Remoto (Chile,",
+    "modality": "Remoto (Chile, México o España)",
+    "payment": "2400 - 4000  USD/mes (Sueldo bruto)",
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/software-engineer-cotalker-remote-7a1f"
+  },
+  {
+    "title": "Full-Stack Developer",
+    "company": "WiTi",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": null,
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-developer-witi-remote"
+  },
+  {
+    "title": "Full-Stack Sr con Experiencia en Arquitectura",
+    "company": "3IT",
+    "location": "Remoto (Chile)",
+    "modality": "Remoto (Chile)",
+    "payment": "1900 - 2200  USD/mes (Sueldo bruto)",
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-sr-con-experiencia-en-arquitectura-3it-remote"
+  },
+  {
+    "title": "Data Analytics Engineer",
+    "company": "Haystack News",
+    "location": "Lima (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/data-analytics-engineer-haystack-news-lima"
+  },
+  {
+    "title": "Ingeniero de Preventa TI",
+    "company": "3IT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "2000 - 2500  USD/mes (Sueldo bruto)",
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/ingeniero-de-preventa-ti-3it-santiago-ef68"
+  },
+  {
+    "title": "Technical Lead",
+    "company": "WiTi",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": null,
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/technical-lead-witi-remote"
+  },
+  {
+    "title": "UX/UI Front-end Software Engineer",
+    "company": "HireLATAM",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": "5000 - 6000  USD/mes (Sueldo bruto)",
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/ux-ui-front-end-software-engineer-hirelatam-remote"
+  },
+  {
+    "title": "Líder Técnico",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/lider-tecnico-tcit-santiago-7825"
+  },
+  {
+    "title": "Full-Stack Semi Senior",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "1400 - 2000  USD/mes (Sueldo bruto)",
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-semi-senior-tcit-santiago"
+  },
+  {
+    "title": "Full-Stack Junior (Rails React)",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-junior-rails-react-tcit-santiago-2a6c"
+  },
+  {
+    "title": "Full-Stack .NET / Angular",
+    "company": "Sophos Solutions",
+    "location": "Remoto (Colombia)",
+    "modality": "Remoto (Colombia)",
+    "payment": null,
+    "published": "feb 28",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/fullstack-net-angular-sophos-solutions-remote"
+  },
+  {
     "title": "Desarrollador/a Ping Federate Ping Identity",
     "company": "Agilesoft SpA",
     "location": "Remoto (Chile,",
@@ -68,16 +178,6 @@
     "published": "feb 27",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/kotlin-middle-engineer-moventi-remote"
-  },
-  {
-    "title": "Back-end Software Engineer",
-    "company": "Cotalker",
-    "location": "Remoto (Chile,",
-    "modality": "Remoto (Chile, México o España)",
-    "payment": "2400 - 4000  USD/mes (Sueldo bruto)",
-    "published": "feb 27",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/software-engineer-cotalker-remote-7a1f"
   },
   {
     "title": "Salesforce Developer",
@@ -168,36 +268,6 @@
     "published": "feb 27",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-rpa-aa-chile-orbis-data-remote-05a8"
-  },
-  {
-    "title": "Líder Técnico",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "feb 27",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/lider-tecnico-tcit-santiago-7825"
-  },
-  {
-    "title": "Full-Stack Semi Senior",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "1400 - 2000  USD/mes (Sueldo bruto)",
-    "published": "feb 27",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-semi-senior-tcit-santiago"
-  },
-  {
-    "title": "Full-Stack Junior (Rails React)",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "feb 27",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-junior-rails-react-tcit-santiago-2a6c"
   },
   {
     "title": "SQL Developer Mid",
@@ -388,16 +458,6 @@
     "published": "feb 23",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/lider-tecnico-chile-orbis-data-remote"
-  },
-  {
-    "title": "Data Analytics Engineer",
-    "company": "Haystack News",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "feb 23",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/data-analytics-engineer-haystack-news-lima"
   },
   {
     "title": "Lider Tecnico Senior Proyecto Io",
