@@ -17,9 +17,21 @@ const { title, description } = Astro.props;
 		<link rel="canonical" href="https://pega-hunt.vercel.app" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
+
+		{
+			import.meta.env.PROD && (
+				<script
+					defer
+					src="https://analytics.us.umami.is/script.js"
+					data-website-id="d2d1968b-3ba2-4655-a452-88e1884ca048"
+				/>
+			)
+		}
 	</head>
 	<body class="dark">
-		<main class="flex flex-col gap-y-10 mx-auto max-w-7xl px-2 py-12 md:py-16 lg:px-10">
+		<main
+			class="flex flex-col gap-y-10 mx-auto max-w-7xl px-2 py-12 md:py-16 lg:px-10"
+		>
 			<slot />
 		</main>
 	</body>
