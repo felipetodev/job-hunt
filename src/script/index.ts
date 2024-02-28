@@ -1,8 +1,9 @@
 import * as cheerio from 'cheerio'
 import { writeFile } from 'node:fs/promises'
 import path from 'node:path'
+import type { Job } from '@/types'
 
-const JOB_CARD = '.gb-results-list__item'
+const MAIN_JOB_CARD = '.gb-results-list__item'
 
 const JOB_TITLE = '.gb-results-list__title strong'
 const JOB_COMPANY = '.gb-results-list__info div strong'
@@ -64,21 +65,21 @@ const scrape = async (job = 'programacion') => {
 
 const getListOfJobs = async () => {
   const $ = await scrape()
-  const jobs: any = []
+  const jobs: Job[] = []
 
-  $(JOB_CARD).each((i, el) => {
+  $(MAIN_JOB_CARD).each((i, el) => {
     const title = $(el).find(JOB_TITLE).text()
     const company = $(el).find(JOB_COMPANY).text()
     const location = $(el).find(JOB_LOCATION).text().replaceAll('\n', '').trim()
     const payment = $(el).find(JOB_PAYMENT_RANGE).attr('title') || null
     const published = $(el).find(JOB_PUBLISHED_DATE).text().trim()
-    const url = $(el).attr('href')
+    const url = $(el).attr('href')!
 
     const isHybrid = "El trabajo se desempeña algunos días de forma remota y otros en la oficina"
     const isPresential = "El trabajo debe ser desempeñado íntegramente de manera presencial"
     const year = dateComparison(published)
 
-    const job = {
+    const job: Job = {
       title,
       company,
       location: location.split('en: ')[1]
@@ -88,7 +89,7 @@ const getListOfJobs = async () => {
         ? 'Presencial'
         : location.includes(isHybrid)
           ? 'Híbrido'
-          : location,
+          : location.replace('(', ' ('),
       payment,
       published,
       year,
@@ -98,12 +99,44 @@ const getListOfJobs = async () => {
     jobs.push(job)
   })
 
-  console.info(jobs.length + ' jobs generated')
+  console.info(jobs.length + ' jobs generated ✨✨')
 
-  return jobs
+  return jobs.sort((a, b) => {
+    const { 0: dayA, 1: monthA } = a.published.split(" ")
+    const { 0: dayB, 1: monthB } = b.published.split(" ")
+    
+    const monthDateA = dayA.toLowerCase()
+    const monthDateB = dayB.toLowerCase()
+  
+    const dayDateA = Number(monthA);
+    const dayDateB = Number(monthB);
+  
+    const months = [
+      "ene",
+      "feb",
+      "mar",
+      "abr",
+      "may",
+      "jun",
+      "jul",
+      "ago",
+      "sep",
+      "oct",
+      "nov",
+      "dic",
+    ]
+  
+    const monthIndexA = months.indexOf(monthDateA)
+    const monthIndexB = months.indexOf(monthDateB)
+  
+    return (
+      new Date(b.year, monthIndexB, dayDateB).getTime() -
+      new Date(a.year, monthIndexA, dayDateA).getTime()
+    )
+  });
 }
 
-const writeDBFile = async (data: any) => {
+const writeDBFile = async (data: Job[]) => {
   const filePath = path.join(process.cwd(), './db/gob-jobs.json')
   return await writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8')
 }
