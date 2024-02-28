@@ -1,11 +1,14 @@
 ---
-import Layout from "../layouts/Layout.astro";
-import Logo from "../components/Logo.astro";
-import Table from "../components/Table.astro";
-import "../styles/globals.css";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Table from "@/components/Table.astro";
+import "@/styles/globals.css";
 ---
 
-<Layout title="Pega Hunt 💼">
-	<Logo />
+<Layout
+	title="Pega Hunt - Ofertas Dev"
+	description="Las principales ofertas de trabajo en tecnología dentro de LATAM, en un solo lugar."
+>
+	<Header />
 	<Table />
 </Layout>

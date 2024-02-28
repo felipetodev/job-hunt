@@ -1,19 +1,19 @@
 ---
-import TableCaption from "./ui/table/TableCaption.astro";
-import TableHeader from "./ui/table/TableHeader.astro";
-import TableRow from "./ui/table/TableRow.astro";
-import TableHead from "./ui/table/TableHead.astro";
-import TableBody from "./ui/table/TableBody.astro";
-import TableCell from "./ui/table/TableCell.astro";
-import CurrencyOff from "./ui/icons/CurrencyOff.astro"
+import TableCaption from "@/components/ui/table/TableCaption.astro";
+import TableHeader from "@/components/ui/table/TableHeader.astro";
+import TableRow from "@/components/ui/table/TableRow.astro";
+import TableHead from "@/components/ui/table/TableHead.astro";
+import TableBody from "@/components/ui/table/TableBody.astro";
+import TableCell from "@/components/ui/table/TableCell.astro";
+import CurrencyOff from "@/components/ui/icons/CurrencyOff.astro"
 
 import jobs from "../../db/gob-jobs.json";
 ---
 
-<div class="relative w-full overflow-auto p-4">
+<div class="relative w-full overflow-auto">
   <table class="border w-full caption-bottom text-sm">
     <TableCaption>
-      Siempre tomá los valores como referencia y no como un absoluto.
+      Siempre ten en cuenta los valores como referencia y no como un absoluto.
     </TableCaption>
     <TableHeader>
       <TableRow>
@@ -21,7 +21,7 @@ import jobs from "../../db/gob-jobs.json";
         <TableHead>Compañia</TableHead>
         <TableHead>Localidad</TableHead>
         <TableHead>Modalidad</TableHead>
-        <TableHead>Pago</TableHead>
+        <TableHead>Sueldo</TableHead>
         <TableHead>Fecha Publicación</TableHead>
       </TableRow>
     </TableHeader>
