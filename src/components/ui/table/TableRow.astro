@@ -1,6 +1,7 @@
 ---
 const { href } = Astro.props;
 ---
+
 <tr
   class={`
     border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted group ${href ? "cursor-pointer" : ""}
@@ -10,12 +11,20 @@ const { href } = Astro.props;
   <slot />
 </tr>
 <script>
+  import { centerRectOnScreen } from "@/lib/utils.ts";
+
   const $tr = document.querySelectorAll("tr[data-href]");
 
   $tr?.forEach((tr) => {
     tr.addEventListener("click", (e) => {
       const href = (e.currentTarget as HTMLElement)?.dataset.href;
-      window.open(href, "_blank", "noopener noreferrer");
+      const { width, height, left, top } = centerRectOnScreen(750, 800);
+
+      window.open(
+        `${href}`,
+        "popup",
+        `width=${width},height=${height},top=${top},left=${left}`,
+      );
     });
   });
 </script>
