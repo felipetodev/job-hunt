@@ -6,10 +6,8 @@ import TableHead from "@/components/ui/table/TableHead.astro";
 import TableBody from "@/components/ui/table/TableBody.astro";
 import TableCell from "@/components/ui/table/TableCell.astro";
 import CurrencyOff from "@/components/ui/icons/CurrencyOff.astro";
-import type { Job } from "@/types";
 
-const res = await fetch(`${Astro.url}/api/jobs.json`)
-const jobsData = await res.json() as Job[]
+import jobsData from "../../db/gob-jobs.json";
 ---
 
 <div class="relative w-full overflow-auto">
