@@ -27,7 +27,7 @@ export const generateTableRow = (job: Job) => {
       <td class="relative p-4 align-middle [&:has([role=checkbox])]:pr-0">
         ${job.company}
       </td>
-      <td class="relative p-4 align-middle [&:has([role=checkbox])]:pr-0">
+      <td class="relative p-4 align-middle [&:has([role=checkbox])]:pr-0 max-w-[30ch] truncate">
         ${job.location}
       </td>
       <td class="relative p-4 align-middle [&:has([role=checkbox])]:pr-0">
