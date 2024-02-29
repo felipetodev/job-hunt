@@ -2,6 +2,7 @@
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Table from "@/components/Table.astro";
+import FilterSelectors from "@/components/FilterSelectors.astro";
 import "@/styles/globals.css";
 ---
 
@@ -10,5 +11,8 @@ import "@/styles/globals.css";
 	description="Las principales ofertas de trabajo en tecnología dentro de LATAM, en un solo lugar."
 >
 	<Header />
-	<Table />
+	<section class="flex flex-col gap-y-4">
+		<FilterSelectors />
+		<Table />
+	</section>
 </Layout>

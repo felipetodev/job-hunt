@@ -1,0 +1,107 @@
+---
+import Select from "@/components/ui/select/Select.astro";
+import SelectItem from "@/components/ui/select/SelectItem.astro";
+
+const POSITION_OPTIONS = [
+  { value: "all", label: "Todas las posiciones" },
+  { value: "front", label: "Frontend" },
+  { value: "full", label: "Fullstack" },
+  { value: "back", label: "Backend" },
+  { value: "devops", label: "DevOps" },
+  { value: "qa", label: "QA" },
+];
+
+const MODALITY_OPTIONS = [
+  { value: "all", label: "Todas las modalidades" },
+  { value: "remoto", label: "Remoto" },
+  { value: "híbrido", label: "Híbrido" },
+  { value: "presencial", label: "Presencial" },
+];
+---
+
+<div class="flex gap-x-4">
+  <Select id="title">
+    {
+      POSITION_OPTIONS.map((option) => (
+        <SelectItem value={option.value}>{option.label}</SelectItem>
+      ))
+    }
+  </Select>
+  <Select id="modality" class="w-[200px]">
+    {
+      MODALITY_OPTIONS.map((m) => (
+        <SelectItem value={m.value}>{m.label}</SelectItem>
+      ))
+    }
+  </Select>
+</div>
+<script>
+  import { centerRectOnScreen } from "@/lib/utils.ts";
+  import { generateTableRow } from "@/lib/constants.ts";
+  import type { Job } from "@/types";
+
+  const $select = document.querySelectorAll("select");
+
+  let state = {
+    title: null,
+    modality: null,
+  } as Record<string, string | null>;
+
+  const renderTableRow = async ({
+    key,
+    value,
+  }: {
+    key: keyof Omit<Job, "year" | "payment">;
+    value: string;
+  }) => {
+    if (value === "all") {
+      state[key] = null;
+    }
+
+    let url = "";
+
+    if (state.title && state.modality) {
+      url = `/api/jobs.json?title=${state.title}&modality=${state.modality}`;
+    } else if (state.title) {
+      url = `/api/jobs.json?title=${state.title}`;
+    } else if (state.modality) {
+      url = `/api/jobs.json?modality=${state.modality}`;
+    } else {
+      url = "/api/jobs.json";
+    }
+
+    const res = await fetch(url);
+    const jobs = (await res.json()) as Job[];
+
+    const htmlTableRow = jobs.map((job) => generateTableRow(job)).join("");
+
+    document.querySelector("tbody")!.innerHTML = htmlTableRow;
+  };
+
+  $select.forEach((select) => {
+    select.addEventListener("change", async ({ target }) => {
+      const { id, value } = target as HTMLSelectElement;
+      const key = id as keyof Omit<Job, "year" | "payment">;
+
+      // update state
+      state[key] = value === "all" ? null : value;
+
+      await renderTableRow({ key, value });
+
+      // reload event listener for each new TableRow generated
+      const $tr = document.querySelectorAll("tr[data-href]");
+      $tr?.forEach((tr) => {
+        tr.addEventListener("click", (e) => {
+          const href = (e.currentTarget as HTMLElement)?.dataset.href;
+          const { width, height, left, top } = centerRectOnScreen(750, 800);
+
+          window.open(
+            `${href}`,
+            "popup",
+            `width=${width},height=${height},top=${top},left=${left}`,
+          );
+        });
+      });
+    });
+  });
+</script>
