@@ -27,6 +27,17 @@ const { title, description } = Astro.props;
 				/>
 			)
 		}
+
+		<script is:inline>
+			window.getThemePreference = () => {
+				const localItem =
+					typeof localStorage !== "undefined" && localStorage.getItem("theme");
+
+				if (localItem) {
+					return document.querySelector('body').classList = localItem;
+				}
+			};
+		</script>
 	</head>
 	<body class="dark">
 		<main

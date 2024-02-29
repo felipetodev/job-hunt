@@ -1,0 +1,47 @@
+---
+import Sun from "@/components/ui/icons/Sun.astro";
+import Moon from "@/components/ui/icons/Moon.astro";
+
+const DARK_THEME = "dark";
+const LIGHT_THEME = "light";
+---
+
+<button
+	id="themeToggle"
+	class="inline-flex text-primary transition any-hover:scale-125 any-hover:opacity-70"
+>
+	<Sun class="opacity-100 transition-transform dark:-rotate-90 dark:opacity-0" />
+	<Moon
+		class="absolute rotate-90 opacity-0 transition-transform dark:rotate-0 dark:opacity-100"
+	/>
+	<span class="sr-only"></span>
+</button>
+<script
+	is:inline
+	define:vars={{ darkTheme: DARK_THEME, lightTheme: LIGHT_THEME }}
+>
+	function handleToggleClick() {
+		const element = document.querySelector("body");
+		element.classList.toggle(darkTheme);
+
+		const isDark = element.classList.contains(darkTheme);
+		localStorage.setItem("theme", isDark ? darkTheme : lightTheme);
+
+		updateThemeMessage(isDark);
+	}
+
+	function updateThemeMessage(theme) {
+		const translation = theme ? "oscuro" : "claro";
+		const actualThemeMsg = `Alternar tema, el tema actual es ${translation}`;
+		const span = document.querySelector("span.sr-only");
+		span.innerHTML = actualThemeMsg;
+
+		window.dispatchEvent(new Event("theme-changed"));
+	}
+
+	document
+		.getElementById("themeToggle")
+		.addEventListener("click", handleToggleClick);
+
+	updateThemeMessage(window.getThemePreference());
+</script>

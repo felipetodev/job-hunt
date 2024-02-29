@@ -1,6 +1,8 @@
 ---
-import GitHub from '@/components/ui/icons/GitHub.astro'
+import GitHub from "@/components/ui/icons/GitHub.astro";
+import ThemeToggle from "@/components/ThemeToggle.astro";
 ---
+
 <header class="flex items-center justify-between text-3xl">
   <div class="flex items-center gap-x-2">
     <svg
@@ -23,7 +25,8 @@ import GitHub from '@/components/ui/icons/GitHub.astro'
     >
     <h1 class="underline font-semibold">Pega Hunt</h1>
   </div>
-  <nav>
+  <nav class="flex items-center gap-x-4">
+    <ThemeToggle />
     <a
       class="ml-auto flex max-w-fit items-center justify-center space-x-2 font-semibold rounded-full border border-gray-300 px-3 py-1.5 text-xs sm:text-sm transition-colors hover:bg-primary hover:text-primary-foreground"
       href="https://github.com/felipetodev/job-hunt"
@@ -31,7 +34,9 @@ import GitHub from '@/components/ui/icons/GitHub.astro'
       rel="noopener noreferrer"
     >
       <GitHub />
-      <span class='inline-flex animate-text-gradient bg-gradient-to-r from-[#b2a8fd] via-[#8678f9] to-[#c7d2fe] bg-[200%_auto] bg-clip-text text-transparent'>
+      <span
+        class="inline-flex animate-text-gradient bg-gradient-to-r from-[#b2a8fd] via-[#8678f9] to-[#c7d2fe] bg-[200%_auto] bg-clip-text text-transparent"
+      >
         GitHub
       </span>
     </a>
