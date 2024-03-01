@@ -21,10 +21,10 @@ const LIGHT_THEME = "light";
 	define:vars={{ darkTheme: DARK_THEME, lightTheme: LIGHT_THEME }}
 >
 	function handleToggleClick() {
-		const element = document.querySelector("body");
-		element.classList.toggle(darkTheme);
+		const $bodyEl = document.body;
+		$bodyEl.classList.toggle(darkTheme);
 
-		const isDark = element.classList.contains(darkTheme);
+		const isDark = $bodyEl.classList.contains(darkTheme);
 		localStorage.setItem("theme", isDark ? darkTheme : lightTheme);
 
 		updateThemeMessage(isDark);

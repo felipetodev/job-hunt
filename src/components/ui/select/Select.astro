@@ -1,5 +1,5 @@
 ---
-const { class: c, ...rest } = Astro.props
+const { class: c = "", ...rest } = Astro.props
 ---
 <select
   {...rest}

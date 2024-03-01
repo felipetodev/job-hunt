@@ -34,7 +34,7 @@ const { title, description } = Astro.props;
 					typeof localStorage !== "undefined" && localStorage.getItem("theme");
 
 				if (localItem) {
-					return document.querySelector('body').classList = localItem;
+					return document.body.classList = localItem;
 				}
 			};
 		</script>

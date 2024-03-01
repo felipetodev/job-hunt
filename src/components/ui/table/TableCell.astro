@@ -1,5 +1,5 @@
 ---
-const { class: c, ...props } = Astro.props;
+const { class: c = "", ...props } = Astro.props;
 ---
 <td {...props} class={`relative p-4 align-middle [&:has([role=checkbox])]:pr-0 ${c}`}>
   <slot />
