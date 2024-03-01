@@ -42,10 +42,10 @@ const MODALITY_OPTIONS = [
 
   const $select = document.querySelectorAll("select");
 
-  let state = {
+  let state: Record<string, string | null> = {
     title: null,
     modality: null,
-  } as Record<string, string | null>;
+  };
 
   const renderTableRow = async ({
     key,
@@ -75,7 +75,12 @@ const MODALITY_OPTIONS = [
 
     const htmlTableRow = jobs.map((job) => generateTableRow(job)).join("");
 
-    document.querySelector("tbody")!.innerHTML = htmlTableRow;
+    const $tbody = document.querySelector("tbody") as HTMLTableSectionElement;
+
+    htmlTableRow
+      ? ($tbody.innerHTML = htmlTableRow)
+      : ($tbody.innerHTML =
+          "<tr><td class='p-4 align-middle'>No hay resultados</td></tr>");
   };
 
   $select.forEach((select) => {
