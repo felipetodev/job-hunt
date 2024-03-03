@@ -36,8 +36,7 @@ const MODALITY_OPTIONS = [
   </Select>
 </div>
 <script>
-  import { centerRectOnScreen } from "@/lib/utils.ts";
-  import { generateTableRow } from "@/lib/constants.ts";
+  import { centerRectOnScreen, generateTableRow } from "@/lib/utils.ts";
   import type { Job } from "@/types";
 
   const $select = document.querySelectorAll("select");
@@ -47,25 +46,18 @@ const MODALITY_OPTIONS = [
     modality: null,
   };
 
-  const renderTableRow = async ({
-    key,
-    value,
-  }: {
-    key: keyof Omit<Job, "year" | "payment">;
-    value: string;
-  }) => {
-    if (value === "all") {
-      state[key] = null;
-    }
-
+  async function renderTableRow({
+    title,
+    modality,
+  }: Record<string, string | null>) {
     let url = "";
 
-    if (state.title && state.modality) {
-      url = `/api/jobs.json?title=${state.title}&modality=${state.modality}`;
-    } else if (state.title) {
-      url = `/api/jobs.json?title=${state.title}`;
-    } else if (state.modality) {
-      url = `/api/jobs.json?modality=${state.modality}`;
+    if (title && modality) {
+      url = `/api/jobs.json?title=${title}&modality=${modality}`;
+    } else if (title) {
+      url = `/api/jobs.json?title=${title}`;
+    } else if (modality) {
+      url = `/api/jobs.json?modality=${modality}`;
     } else {
       url = "/api/jobs.json";
     }
@@ -81,17 +73,18 @@ const MODALITY_OPTIONS = [
       ? ($tbody.innerHTML = htmlTableRow)
       : ($tbody.innerHTML =
           "<tr><td class='p-4 align-middle'>No hay resultados</td></tr>");
-  };
+  }
 
   $select.forEach((select) => {
     select.addEventListener("change", async ({ target }) => {
       const { id, value } = target as HTMLSelectElement;
-      const key = id as keyof Omit<Job, "year" | "payment">;
+      const key = id as keyof Job;
 
       // update state
       state[key] = value === "all" ? null : value;
 
-      await renderTableRow({ key, value });
+      // render html table filtered by state
+      await renderTableRow(state);
 
       // reload event listener for each new TableRow generated
       const $tr = document.querySelectorAll("tr[data-href]");
