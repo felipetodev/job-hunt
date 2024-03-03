@@ -1,0 +1,48 @@
+<div class="fixed bottom-4 right-6 opacity-0 transition-opacity">
+  <button
+    id="scroll-to-top"
+    aria-label="Volver al inicio de la página"
+    class="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 p-2"
+  >
+    <svg
+      stroke-width="2"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      fill="none"
+      class="h-6 w-6 -rotate-90 motion-safe:transition"
+      width="20px"
+    >
+      <path
+        d="M14 5l7 7m0 0l-7 7m7-7H3"
+        stroke-linejoin="round"
+        stroke-linecap="round"></path>
+    </svg>
+  </button>
+</div>
+<script>
+  let timeout: any = 0;
+  const $button = document.getElementById("scroll-to-top");
+
+  function toggleScrollToTop() {
+    const scrollTop =
+      document.body.scrollTop || document.documentElement.scrollTop;
+    const display = scrollTop > 250 ? "block" : "none";
+    if ($button)
+      $button.parentElement?.classList.toggle("opacity-0", display === "none");
+  }
+
+  function throttledScrollHandler() {
+    if (timeout === 0) {
+      timeout = setTimeout(() => {
+        toggleScrollToTop();
+        timeout = 0;
+      }, 100);
+    }
+  }
+
+  window.addEventListener("scroll", throttledScrollHandler);
+
+  $button?.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+</script>
