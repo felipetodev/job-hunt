@@ -5,9 +5,89 @@
     "location": "Santiago (Híbrido)",
     "modality": "Híbrido",
     "payment": null,
-    "published": "mar 01",
+    "published": "mar 04",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/lider-de-desarrollo-tcit-santiago"
+  },
+  {
+    "title": "Senior Engineer",
+    "company": "Principal Financial Group",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "mar 04",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/senior-engineer-principal-financial-group-santiago"
+  },
+  {
+    "title": "Desarrollador Full-Stack Java Angular",
+    "company": "Orbis Data",
+    "location": "Santiago (Presencial)",
+    "modality": "Presencial",
+    "payment": null,
+    "published": "mar 04",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-full-stack-java-angular-orbis-data-santiago"
+  },
+  {
+    "title": "Líder Técnico",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "mar 04",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/lider-tecnico-tcit-santiago-7825"
+  },
+  {
+    "title": "Full-Stack Semi Senior",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "1400 - 2000  USD/mes (Sueldo bruto)",
+    "published": "mar 04",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-semi-senior-tcit-santiago"
+  },
+  {
+    "title": "Full-Stack Junior (Rails React)",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "mar 04",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-junior-rails-react-tcit-santiago-2a6c"
+  },
+  {
+    "title": "Chief Technology Officer (CTO)",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "mar 04",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/chief-technology-officer-cto-tcit-santiago"
+  },
+  {
+    "title": "Full-Stack Developer",
+    "company": "WiTi",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": null,
+    "published": "mar 02",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-developer-witi-remote"
+  },
+  {
+    "title": "Desarrollador/a SAP BTP Senior",
+    "company": "Accenture",
+    "location": "Santiago (Presencial)",
+    "modality": "Presencial",
+    "payment": null,
+    "published": "mar 01",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-a-sap-btp-senior-accenture-santiago"
   },
   {
     "title": "Technical Lead",
@@ -20,14 +100,64 @@
     "url": "https://www.getonbrd.com/empleos/programacion/technical-lead-witi-remote"
   },
   {
-    "title": "Desarrollador/a SAP BTP Senior",
-    "company": "Accenture",
-    "location": "Santiago (Presencial)",
-    "modality": "Presencial",
+    "title": "Full-Stack Developer React + Net Core",
+    "company": "Lima Innovation Lab",
+    "location": "Remoto (7",
+    "modality": "Remoto (7 ubicaciones)",
+    "payment": "1300 - 1700  USD/mes (Sueldo bruto)",
+    "published": "mar 01",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-developer-react-net-core-lima-innovation-lab-remote-b188"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Kibernum",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": "4000 - 5000  USD/mes (Sueldo bruto)",
+    "published": "mar 01",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/java-developer-kibernum-remote-509b"
+  },
+  {
+    "title": "Desarrollador Full-Stack",
+    "company": "Soaint",
+    "location": "Remoto (Perú)",
+    "modality": "Remoto (Perú)",
+    "payment": "1300 - 1700  USD/mes (Sueldo bruto)",
+    "published": "mar 01",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-fullstack-soaint-remote-a03a"
+  },
+  {
+    "title": "Back-end Developer PHP",
+    "company": "Alegra",
+    "location": "Remoto",
+    "modality": "Remoto",
     "payment": null,
     "published": "mar 01",
     "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-a-sap-btp-senior-accenture-santiago"
+    "url": "https://www.getonbrd.com/empleos/programacion/back-end-developer-php-alegra-remote-76aa"
+  },
+  {
+    "title": "Back-end Node.js",
+    "company": "Alegra",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": null,
+    "published": "mar 01",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/back-end-node-js-alegra-remote-2de7"
+  },
+  {
+    "title": "Front-end Developer Vue.js",
+    "company": "Alegra",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": null,
+    "published": "mar 01",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/front-end-developer-vue-js-alegra-remote-41a9"
   },
   {
     "title": "Desarrollador/a Front-end Angular",
@@ -78,46 +208,6 @@
     "published": "mar 01",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/practica-consultor-cx-zerviz-remote"
-  },
-  {
-    "title": "Líder Técnico",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "mar 01",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/lider-tecnico-tcit-santiago-7825"
-  },
-  {
-    "title": "Full-Stack Semi Senior",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "1400 - 2000  USD/mes (Sueldo bruto)",
-    "published": "mar 01",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-semi-senior-tcit-santiago"
-  },
-  {
-    "title": "Full-Stack Junior (Rails React)",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "mar 01",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-junior-rails-react-tcit-santiago-2a6c"
-  },
-  {
-    "title": "Chief Technology Officer (CTO)",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "mar 01",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/chief-technology-officer-cto-tcit-santiago"
   },
   {
     "title": "Golang Senior Developer",
@@ -188,16 +278,6 @@
     "published": "feb 28",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/software-engineer-cotalker-remote-7a1f"
-  },
-  {
-    "title": "Full-Stack Developer",
-    "company": "WiTi",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": null,
-    "published": "feb 28",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-developer-witi-remote"
   },
   {
     "title": "Consultor de Software A2 Softway",
@@ -400,16 +480,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/sql-developer-mid-spark-technologies-mexicali"
   },
   {
-    "title": "Semi Senior Front-end Developer",
-    "company": "Modyo",
-    "location": "Remoto (Chile)",
-    "modality": "Remoto (Chile)",
-    "payment": null,
-    "published": "feb 26",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/senior-front-end-developer-modyo-remote-3b21"
-  },
-  {
     "title": "Ruby on Rails Developer SSR",
     "company": "Modyo",
     "location": "Remoto (4",
@@ -470,6 +540,16 @@
     "url": "https://www.getonbrd.com/empleos/programacion/full-stack-engineer-semi-senior-rexmas-s-a-santiago"
   },
   {
+    "title": "Semi Senior Front-end Developer",
+    "company": "Modyo",
+    "location": "Remoto (Chile)",
+    "modality": "Remoto (Chile)",
+    "payment": null,
+    "published": "feb 26",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/senior-front-end-developer-modyo-remote-3b21"
+  },
+  {
     "title": "Senior Full-Stack Software Engineer",
     "company": "Tenmás",
     "location": "Guadalajara o Jalisco (Híbrido)",
@@ -478,36 +558,6 @@
     "published": "feb 26",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/senior-full-stack-software-engineer-tenmas-guadalajara-jalisco"
-  },
-  {
-    "title": "Back-end Node.js",
-    "company": "Alegra",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": null,
-    "published": "feb 26",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/back-end-node-js-alegra-remote-f33f"
-  },
-  {
-    "title": "Front-end Developer Vue.js",
-    "company": "Alegra",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": null,
-    "published": "feb 26",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/front-end-developer-vue-js-alegra-remote-cb36"
-  },
-  {
-    "title": "Back-end Developer PHP",
-    "company": "Alegra",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": null,
-    "published": "feb 26",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/back-end-developer-php-alegra-remote-c8c7"
   },
   {
     "title": "Desarrollador Back-end Java (Spring)",
@@ -608,26 +658,6 @@
     "published": "feb 22",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/fullstack-springboot-openshift-kti-hunter-santiago"
-  },
-  {
-    "title": "Desarrollador RPA Medium",
-    "company": "Sophos Solutions",
-    "location": "Remoto (Colombia)",
-    "modality": "Remoto (Colombia)",
-    "payment": null,
-    "published": "feb 22",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-rpa-medium-remoto-sophos-solutions-remote"
-  },
-  {
-    "title": "Desarrollador (a) Full-Stack",
-    "company": "Yourney",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": "2200 - 3000  USD/mes (Sueldo bruto)",
-    "published": "feb 22",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/besto-fullstack-yourney-remote"
   },
   {
     "title": "Líder Técnico Front",
@@ -1348,16 +1378,6 @@
     "published": "feb 06",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-php-mid-cpa-vision-remote"
-  },
-  {
-    "title": "Desarrollador Back-end",
-    "company": "Lisit",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": "2000 - 3000  USD/mes ",
-    "published": "feb 06",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-back-end-lisit-remote-bd92"
   },
   {
     "title": "Desarrollador Full-Stack React Nestjs",
@@ -2230,16 +2250,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/programador-prestashop-celmedia-santiago-190d"
   },
   {
-    "title": "Full-Stack Developer React + Net Core",
-    "company": "Lima Innovation Lab",
-    "location": "Remoto (8",
-    "modality": "Remoto (8 ubicaciones)",
-    "payment": "1200 - 1500  USD/mes (Sueldo bruto)",
-    "published": "dic 22",
-    "year": 2023,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-developer-react-net-core-lima-innovation-lab-remote"
-  },
-  {
     "title": "Lead Java Software Engineer",
     "company": "Softserve",
     "location": "Remoto (Chile)",
@@ -2258,16 +2268,6 @@
     "published": "dic 21",
     "year": 2023,
     "url": "https://www.getonbrd.com/empleos/programacion/lider-tecnico-agilesoft-spa-santiago"
-  },
-  {
-    "title": "Technical Lead",
-    "company": "Talana",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": null,
-    "published": "dic 19",
-    "year": 2023,
-    "url": "https://www.getonbrd.com/empleos/programacion/technical-lead-talana-remote-5a66"
   },
   {
     "title": "React Developer",
