@@ -1,0 +1,95 @@
+<div class="text-xs mt-2">
+  <span class="block md:inline font-semibold"> Última actualización:</span>
+  <time class="date"></time>,
+  <time class="time"></time>
+</div>
+
+<script>
+  // Based on: https://github.com/midudev/la-velada-web-oficial/blob/main/src/sections/PrincipalDate.astro
+  import { lastModified } from "../../db/info.json";
+
+  function getUserTimeZone(): string {
+    return Intl.DateTimeFormat().resolvedOptions().timeZone;
+  }
+
+  // Formatea la fecha del evento considerando la zona horaria del usuario
+  function formatEventDate(timestamp: number, timeZone: string) {
+    const options: Intl.DateTimeFormatOptions = {
+      day: "numeric",
+      month: "long",
+      timeZone,
+    };
+    return new Intl.DateTimeFormat("es-ES", options).format(
+      new Date(timestamp),
+    );
+  }
+
+  // Formatea la hora del evento con el nombre de la zona horaria, ajustándose al formato de 24 horas
+  function formatEventTimeWithTimeZoneName(
+    timestamp: number,
+    timeZone: string,
+  ): string {
+    const formattedTime = new Intl.DateTimeFormat("es-ES", {
+      hour: "numeric",
+      minute: "numeric",
+      hour12: false,
+      timeZone,
+    }).format(new Date(timestamp));
+
+    const timeZoneName = new Intl.DateTimeFormat("es-ES", {
+      timeZone,
+      timeZoneName: "shortGeneric",
+    })
+      .formatToParts(new Date(timestamp))
+      .find((part) => part.type === "timeZoneName")?.value;
+
+    return `${formattedTime} ${timeZoneName}`;
+  }
+
+  // Genera un datetime válido para el atributo 'datetime' del elemento <time>, respetando la zona horaria
+  function formatValidDatetime(timestamp: number, timeZone: string): string {
+    const options: Intl.DateTimeFormatOptions = {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+      timeZone,
+      hour12: false,
+    };
+    return new Intl.DateTimeFormat("en-CA", options).format(
+      new Date(timestamp),
+    );
+  }
+
+  function updateUI(
+    dateString: string,
+    timeString: string,
+    validDatetime: string,
+  ) {
+    const $dateSpan = document.querySelector(".date");
+    const $timeSpan = document.querySelector(".time");
+
+    if ($dateSpan != null && $timeSpan != null) {
+      $dateSpan.innerHTML = dateString;
+      $dateSpan.setAttribute("datetime", validDatetime);
+      $timeSpan.innerHTML = timeString;
+      $timeSpan.setAttribute("datetime", validDatetime);
+    }
+  }
+
+  function main() {
+    const USER_TZ = getUserTimeZone();
+    const formattedDate = formatEventDate(lastModified, USER_TZ);
+    const formattedTime = formatEventTimeWithTimeZoneName(
+      lastModified,
+      USER_TZ,
+    );
+    const validDatetime = formatValidDatetime(lastModified, USER_TZ);
+
+    updateUI(formattedDate, formattedTime, validDatetime);
+  }
+
+  document.addEventListener("DOMContentLoaded", main);
+</script>
