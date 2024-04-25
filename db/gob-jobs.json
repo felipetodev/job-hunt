@@ -5,9 +5,269 @@
     "location": "Santiago (Híbrido)",
     "modality": "Híbrido",
     "payment": null,
-    "published": "abr 24",
+    "published": "abr 25",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/lider-de-proyectos-ti-rails-react-tcit-santiago-3ae9"
+  },
+  {
+    "title": "Senior Developer PHP",
+    "company": "23people",
+    "location": "Santiago (Presencial)",
+    "modality": "Presencial",
+    "payment": "2100 - 2500  USD/mes (Sueldo bruto)",
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/senior-developer-php-23people-santiago"
+  },
+  {
+    "title": "Front-end Developer Vue.js",
+    "company": "Alegra",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/front-end-developer-vue-js-alegra-remote-1859"
+  },
+  {
+    "title": "Semi Senior Ingeniero de Datos IA",
+    "company": "23people",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "2500 - 3000  USD/mes (Sueldo bruto)",
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/semi-senior-ingeniero-de-datos-23people-santiago"
+  },
+  {
+    "title": "Senior Tech Lead IA",
+    "company": "23people",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "4000 - 5000  USD/mes (Sueldo bruto)",
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/senior-techlead-ia-23people-santiago"
+  },
+  {
+    "title": "Desarrollador/a Back-end Javase Spring Boot",
+    "company": "Sophos Solutions",
+    "location": "Remoto (Colombia)",
+    "modality": "Remoto (Colombia)",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-a-backend-javase-spring-boot-sophos-solutions-remote-3ea5"
+  },
+  {
+    "title": "Full-Stack Junior (Rails React)",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-junior-rails-react-tcit-santiago-2a6c"
+  },
+  {
+    "title": "Líder de Desarrollo",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/lider-de-desarrollo-tcit-santiago"
+  },
+  {
+    "title": "Chief Technology Officer (CTO)",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/chief-technology-officer-cto-tcit-santiago"
+  },
+  {
+    "title": "Líder Técnico",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/lider-tecnico-tcit-santiago-c9f5"
+  },
+  {
+    "title": "Full-Stack Semi Senior",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-semi-senior-tcit-santiago-f5a2"
+  },
+  {
+    "title": "Data Engineer (Python)",
+    "company": "Ensitech",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": "3500 - 4500  USD/mes (Sueldo bruto)",
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/data-engineer-python-ensitech-remote-6036"
+  },
+  {
+    "title": "Front-end Developer",
+    "company": "Ensitech",
+    "location": "Remoto (México",
+    "modality": "Remoto (México y Costa Rica)",
+    "payment": "3000 - 4000  USD/mes (Sueldo bruto)",
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/frontend-developer-ensitech-remote-63f0"
+  },
+  {
+    "title": "Full/Front/Back Sr Dev",
+    "company": "Multiconsulting",
+    "location": "Santiago o Viña del Mar (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "2000 - 3000  USD/mes (Sueldo bruto)",
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-front-back-sr-dev-multiconsulting-santiago-vina-del-mar"
+  },
+  {
+    "title": "Desarrollador .NET",
+    "company": "Rialis Software",
+    "location": "Santiago (Presencial)",
+    "modality": "Presencial",
+    "payment": "2000 - 2400  USD/mes (Sueldo bruto)",
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-net-rialis-software-santiago-2dc8"
+  },
+  {
+    "title": "Web Engineer",
+    "company": "Haystack News",
+    "location": "Lima (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/web-engineer-haystack-news-lima-28d3"
+  },
+  {
+    "title": "Full-Stack Developer",
+    "company": "Healthatom",
+    "location": "Bogotá (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-developer-healthatom-santiago"
+  },
+  {
+    "title": "Consultor(a) Financiero Oracle (ERP Cloud)",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultor-a-financiero-oracle-erp-cloud-tcit-santiago"
+  },
+  {
+    "title": "Consultor Oracle CX",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "3000 - 4000  USD/mes (Sueldo bruto)",
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultor-oracle-cx-tcit-santiago"
+  },
+  {
+    "title": "Consultor(a) Oracle ERP Cloud HCM",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultor-a-oracle-erp-cloud-hcm-tcit-santiago"
+  },
+  {
+    "title": "Consultor(a) Técnico Oracle Fusion Cloud",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultor-a-tecnico-oracle-fusion-cloud-tcit-santiago"
+  },
+  {
+    "title": "Gerente de Implementación Oracle ERP Cloud",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/gerente-de-implementacion-oracle-erp-cloud-tcit-santiago"
+  },
+  {
+    "title": "Consultor/a Supply Chain Oracle ERP",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultor-a-supply-chain-oracle-erp-tcit-santiago"
+  },
+  {
+    "title": "Automatización de Pruebas Websphere",
+    "company": "Sophos Solutions",
+    "location": "Remoto (Colombia)",
+    "modality": "Remoto (Colombia)",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/automatizacion-de-pruebas-websphere-sophos-solutions-remote"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "NeuralWorks",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/devops-engineer-neuralworks-santiago-3727"
+  },
+  {
+    "title": "Arquitecto Cloud en Google",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 25",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/arquitecto-cloud-en-google-tcit-santiago"
+  },
+  {
+    "title": "Technical Lead (Python)",
+    "company": "Ensitech",
+    "location": "Remoto (México",
+    "modality": "Remoto (México y Costa Rica)",
+    "payment": "3500 - 4000  USD/mes (Sueldo bruto)",
+    "published": "abr 24",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/technical-lead-python-ensitech-remote"
   },
   {
     "title": "Full-Stack Angular + Java",
@@ -20,14 +280,14 @@
     "url": "https://www.getonbrd.com/empleos/programacion/full-stack-angular-java-lima-innovation-lab-remote"
   },
   {
-    "title": "Senior Developer PHP",
-    "company": "23people",
-    "location": "Santiago (Presencial)",
-    "modality": "Presencial",
-    "payment": "2100 - 2500  USD/mes (Sueldo bruto)",
+    "title": "Full-Stack Developer: Java & React",
+    "company": "Leniolabs_",
+    "location": "Remoto (5",
+    "modality": "Remoto (5 ubicaciones)",
+    "payment": null,
     "published": "abr 24",
     "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/senior-developer-php-23people-santiago"
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-developer-java-react-leniolabs_-remote"
   },
   {
     "title": "Líder Técnico con Experiencia en Middleware",
@@ -48,6 +308,26 @@
     "published": "abr 24",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/tech-lead-arkho-santiago-70da"
+  },
+  {
+    "title": "Lead Engineering Manager",
+    "company": "GeoVictoria",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 24",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/lead-engineering-manager-geovictoria-santiago"
+  },
+  {
+    "title": "Semi Senior Front-end Nextjs",
+    "company": "Promarketing",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": "900 - 1400  USD/mes (Sueldo bruto)",
+    "published": "abr 24",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-react-y-nextjs-promarketing-remote-6390"
   },
   {
     "title": "Líder de Equipos Salesforce",
@@ -100,76 +380,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-net-3it-santiago"
   },
   {
-    "title": "Semi Senior Ingeniero de Datos IA",
-    "company": "23people",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "2500 - 3000  USD/mes (Sueldo bruto)",
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/semi-senior-ingeniero-de-datos-23people-santiago"
-  },
-  {
-    "title": "Senior Tech Lead IA",
-    "company": "23people",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "4000 - 5000  USD/mes (Sueldo bruto)",
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/senior-techlead-ia-23people-santiago"
-  },
-  {
-    "title": "Full-Stack Junior (Rails React)",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-junior-rails-react-tcit-santiago-2a6c"
-  },
-  {
-    "title": "Líder de Desarrollo",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/lider-de-desarrollo-tcit-santiago"
-  },
-  {
-    "title": "Chief Technology Officer (CTO)",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/chief-technology-officer-cto-tcit-santiago"
-  },
-  {
-    "title": "Líder Técnico",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/lider-tecnico-tcit-santiago-c9f5"
-  },
-  {
-    "title": "Full-Stack Semi Senior",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-semi-senior-tcit-santiago-f5a2"
-  },
-  {
     "title": "Analista QA Funcional",
     "company": "S3 Chile",
     "location": "Santiago (Híbrido)",
@@ -190,86 +400,6 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/ingeniero-sistemas-operacion-cloud-ti-kibernum-santiago"
   },
   {
-    "title": "Senior Database Administrator (SQL + Azure)",
-    "company": "Softserve",
-    "location": "Remoto (Chile)",
-    "modality": "Remoto (Chile)",
-    "payment": "3000 - 3800  USD/mes (Sueldo bruto)",
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/senior-database-administrator-sql-azure-softserve-remote"
-  },
-  {
-    "title": "Consultor(a) Financiero Oracle (ERP Cloud)",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultor-a-financiero-oracle-erp-cloud-tcit-santiago"
-  },
-  {
-    "title": "Consultor Oracle CX",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "3000 - 4000  USD/mes (Sueldo bruto)",
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultor-oracle-cx-tcit-santiago"
-  },
-  {
-    "title": "Consultor(a) Oracle ERP Cloud HCM",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultor-a-oracle-erp-cloud-hcm-tcit-santiago"
-  },
-  {
-    "title": "Consultor(a) Técnico Oracle Fusion Cloud",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultor-a-tecnico-oracle-fusion-cloud-tcit-santiago"
-  },
-  {
-    "title": "Gerente de Implementación Oracle ERP Cloud",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/gerente-de-implementacion-oracle-erp-cloud-tcit-santiago"
-  },
-  {
-    "title": "Consultor/a Supply Chain Oracle ERP",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultor-a-supply-chain-oracle-erp-tcit-santiago"
-  },
-  {
-    "title": "Arquitecto Cloud en Google",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/arquitecto-cloud-en-google-tcit-santiago"
-  },
-  {
     "title": "Cloud Technical Lead",
     "company": "ARKHO",
     "location": "Remoto",
@@ -278,6 +408,26 @@
     "published": "abr 24",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/cloud-technical-lead-arkho-santiago"
+  },
+  {
+    "title": "Android Engineer",
+    "company": "Haystack News",
+    "location": "Lima (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 24",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/android-engineer-haystack-news-lima-3ad4"
+  },
+  {
+    "title": "Mobile Developer",
+    "company": "Leniolabs_",
+    "location": "Remoto (4",
+    "modality": "Remoto (4 ubicaciones)",
+    "payment": null,
+    "published": "abr 24",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/mobile-developer-leniolabs_-remote"
   },
   {
     "title": "Back-end Engineer",
@@ -298,16 +448,6 @@
     "published": "abr 23",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/data-engineer-jr-tucar-santiago-9cdb"
-  },
-  {
-    "title": "Front-end Developer Vue.js",
-    "company": "Alegra",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": null,
-    "published": "abr 23",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/front-end-developer-vue-js-alegra-remote-24a7"
   },
   {
     "title": "Back-end Developer PHP",
@@ -500,16 +640,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/senior-drupal-engineer-devsu-remote"
   },
   {
-    "title": "Senior Software Engineer",
-    "company": "OpenLoop",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 22",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/senior-software-engineer-openloop-lima"
-  },
-  {
     "title": "Desarrollador Back-end",
     "company": "ULTRA",
     "location": "Mendoza (Híbrido)",
@@ -528,6 +658,16 @@
     "published": "abr 22",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-backend-kuantaz-remote"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "OpenLoop",
+    "location": "Lima (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "abr 22",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/senior-software-engineer-openloop-lima"
   },
   {
     "title": "Cloud & DevOps Technical Manager",
@@ -930,16 +1070,6 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/senior-devops-engineer-zerofox-santiago-c5f3"
   },
   {
-    "title": "Android Engineer",
-    "company": "Haystack News",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 17",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/android-engineer-haystack-news-lima-3ad4"
-  },
-  {
     "title": "Gestor de Aplicaciones Bilingüe",
     "company": "Kibernum",
     "location": "Bogotá (Presencial)",
@@ -1260,16 +1390,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-full-stack-analyze-santiago-51b7"
   },
   {
-    "title": "DevOps Engineer",
-    "company": "NeuralWorks",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 12",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/devops-engineer-neuralworks-santiago-3727"
-  },
-  {
     "title": "Analista de Pruebas Manuales Semi Senior",
     "company": "Sophos Solutions",
     "location": "Medellín (Híbrido)",
@@ -1390,6 +1510,16 @@
     "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/desarrollador-react-native-bc-tecnologia-santiago"
   },
   {
+    "title": "Desarrollador Full-Stack Eol",
+    "company": "VTI-UChile",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "1700 - 2200  USD/mes (Sueldo bruto)",
+    "published": "abr 10",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-full-stack-eol-vti-uchile-santiago"
+  },
+  {
     "title": "Desarrollador/a Full-Stack",
     "company": "NTT DATA Europe & LATAM",
     "location": "Concepción, Maule, Coquimbo o Araucanía (Híbrido)",
@@ -1408,16 +1538,6 @@
     "published": "abr 10",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/back-end-developer-enviame-remote-a8c6"
-  },
-  {
-    "title": "Desarrollador Full-Stack Eol",
-    "company": "VTI-UChile",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "1700 - 2200  USD/mes (Sueldo bruto)",
-    "published": "abr 10",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-full-stack-eol-vti-uchile-santiago"
   },
   {
     "title": "Software Support Developer",
@@ -1460,7 +1580,7 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/ingeniero-a-devops-ntt-data-europe-latam-santiago-valparaiso-rancagua"
   },
   {
-    "title": "Analista QA",
+    "title": "Lider QA",
     "company": "Taag",
     "location": "Santiago (Presencial)",
     "modality": "Presencial",
@@ -2178,16 +2298,6 @@
     "published": "mar 28",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/analista-qa-genesys-tecncologias-de-inform-spa-santiago"
-  },
-  {
-    "title": "Mobile Developer",
-    "company": "Leniolabs_",
-    "location": "Remoto (4",
-    "modality": "Remoto (4 ubicaciones)",
-    "payment": null,
-    "published": "mar 28",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/mobile-developer-leniolabs_-remote"
   },
   {
     "title": "Desarrollador React Native",
@@ -3350,16 +3460,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/consultor-de-software-a2-softway-kibernum-remote"
   },
   {
-    "title": "Full-Stack Developer",
-    "company": "Interfell",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": "2200 - 2500  USD/mes (Sueldo bruto)",
-    "published": "feb 28",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-developer-interfell-remote"
-  },
-  {
     "title": "Consultor Técnico Funcional Flexcube",
     "company": "Sophos Solutions",
     "location": "Remoto (13",
@@ -3478,16 +3578,6 @@
     "published": "feb 23",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/tester-automatizador-chile-orbis-data-remote"
-  },
-  {
-    "title": "Full-Stack Spring Boot Openshift",
-    "company": "KTI Hunter",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "2400 - 2700  USD/mes (Sueldo bruto)",
-    "published": "feb 22",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/fullstack-springboot-openshift-kti-hunter-santiago"
   },
   {
     "title": "Dot Net Developer",
