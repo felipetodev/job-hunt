@@ -5,7 +5,7 @@
     "location": "Remoto (Chile)",
     "modality": "Remoto (Chile)",
     "payment": "2600 - 3000  USD/mes (Sueldo bruto)",
-    "published": "jun 14",
+    "published": "jun 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/senior-full-stack-developer-java-angular-23people-remote"
   },
@@ -15,7 +15,7 @@
     "location": "Santiago (Híbrido)",
     "modality": "Híbrido",
     "payment": null,
-    "published": "jun 14",
+    "published": "jun 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/lider-de-proyectos-ti-rails-react-tcit-santiago-3ae9"
   },
@@ -25,19 +25,19 @@
     "location": "Santiago (Híbrido)",
     "modality": "Híbrido",
     "payment": null,
-    "published": "jun 14",
+    "published": "jun 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/ingeniero-en-desarrollado-net-java-tcit-santiago"
   },
   {
-    "title": "Desarrollador@ Salesforce",
-    "company": "3IT",
-    "location": "Remoto (Chile)",
-    "modality": "Remoto (Chile)",
-    "payment": "2300 - 2600  USD/mes (Sueldo bruto)",
-    "published": "jun 14",
+    "title": "Ingeniero Senior Desarrollador de Software",
+    "company": "MS4M",
+    "location": "Cajamarca o Lima (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "1500 - 2000  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
     "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-salesforce-3it-santiago"
+    "url": "https://www.getonbrd.com/empleos/programacion/ingeniero-senior-desarrollador-de-software-ms4m-cajamarca-lima"
   },
   {
     "title": "Senior Full-Stack Developer",
@@ -45,7 +45,7 @@
     "location": "Remoto (Chile)",
     "modality": "Remoto (Chile)",
     "payment": "2600 - 2900  USD/mes (Sueldo bruto)",
-    "published": "jun 14",
+    "published": "jun 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/senior-full-stack-developer-23people-remote-c831"
   },
@@ -55,9 +55,19 @@
     "location": "Remoto (Chile)",
     "modality": "Remoto (Chile)",
     "payment": "3400 - 3800  USD/mes (Sueldo bruto)",
-    "published": "jun 14",
+    "published": "jun 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/techlead-desarrollador-power-apps-23people-remote"
+  },
+  {
+    "title": "Desarrollador@ Salesforce",
+    "company": "3IT",
+    "location": "Remoto (Chile)",
+    "modality": "Remoto (Chile)",
+    "payment": "2300 - 2600  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-salesforce-3it-santiago"
   },
   {
     "title": "Líder Técnico",
@@ -65,7 +75,7 @@
     "location": "Santiago (Híbrido)",
     "modality": "Híbrido",
     "payment": null,
-    "published": "jun 14",
+    "published": "jun 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/lider-tecnico-tcit-santiago-c9f5"
   },
@@ -75,7 +85,7 @@
     "location": "Santiago (Híbrido)",
     "modality": "Híbrido",
     "payment": null,
-    "published": "jun 14",
+    "published": "jun 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/software-engineer-java-tcit-santiago"
   },
@@ -85,7 +95,7 @@
     "location": "Santiago (Híbrido)",
     "modality": "Híbrido",
     "payment": null,
-    "published": "jun 14",
+    "published": "jun 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/full-stack-angular-y-node-tcit-santiago"
   },
@@ -95,7 +105,7 @@
     "location": "Santiago (Híbrido)",
     "modality": "Híbrido",
     "payment": null,
-    "published": "jun 14",
+    "published": "jun 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/software-engineer-senior-java-tcit-santiago"
   },
@@ -105,9 +115,309 @@
     "location": "Santiago (Híbrido)",
     "modality": "Híbrido",
     "payment": null,
-    "published": "jun 14",
+    "published": "jun 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/full-stack-junior-rails-react-tcit-santiago-a8ef"
+  },
+  {
+    "title": "RoR React Developer",
+    "company": "Rankmi",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": null,
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/fullstack-developer-rankmi-remote-82fc"
+  },
+  {
+    "title": "Blockchain Developer",
+    "company": "FULLTIMEFORCE",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": null,
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/blockchain-expert-fulltimeforce-remote"
+  },
+  {
+    "title": "Senior Arquitecto de Soluciones",
+    "company": "23people",
+    "location": "Remoto (16",
+    "modality": "Remoto (16 ubicaciones)",
+    "payment": "4000 - 4200  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/senior-arquitecto-de-soluciones-23people-remote"
+  },
+  {
+    "title": "Desarrollador Full-Stack",
+    "company": "3IT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "1600 - 2000  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-full-stack-3it-santiago-ca96"
+  },
+  {
+    "title": "Analista de Sistemas",
+    "company": "3IT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "1900 - 2300  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/analista-de-sistemas-3it-santiago"
+  },
+  {
+    "title": "Líder de Desarrollo",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/lider-de-desarrollo-tcit-santiago"
+  },
+  {
+    "title": "Chief Technology Officer (CTO)",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/chief-technology-officer-cto-tcit-santiago"
+  },
+  {
+    "title": "Full-Stack Semi Senior",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-semi-senior-tcit-santiago-f5a2"
+  },
+  {
+    "title": "Desarrollador Web Ruby on Rails",
+    "company": "OOH Publicidad",
+    "location": "Remoto (Chile)",
+    "modality": "Remoto (Chile)",
+    "payment": "2600 - 3600  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-web-ruby-ooh-publicidad-remote"
+  },
+  {
+    "title": "Test Automation Engineer",
+    "company": "Moventi",
+    "location": "Lima (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "1800 - 2200  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/test-automation-engineer-moventi-lima"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Moventi",
+    "location": "Lima (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "2000 - 2400  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/devops-engineer-moventi-lima"
+  },
+  {
+    "title": "Desarrollador DevOps",
+    "company": "Sophos Solutions",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": "2000 - 3000  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/desarrollador-devops-sophos-solutions-remote"
+  },
+  {
+    "title": "Ingeniero en Desarrollo Cloud",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "1500 - 2000  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/ingeniero-en-desarrollo-cloud-tcit-santiago-fcdc"
+  },
+  {
+    "title": "Analista QA Funcional (Semi Senior)",
+    "company": "TCIT",
+    "location": "Santiago (Presencial)",
+    "modality": "Presencial",
+    "payment": null,
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/analista-qa-funcional-tcit-santiago"
+  },
+  {
+    "title": "Analista QA Funcional (Senior)",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/analista-qa-funcional-tcit-santiago-d61f"
+  },
+  {
+    "title": "Senior DevOps Bilingüe",
+    "company": "23people",
+    "location": "Remoto (Chile)",
+    "modality": "Remoto (Chile)",
+    "payment": "3800  USD/mes (Sueldo bruto)",
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/senior-devops-23people-santiago"
+  },
+  {
+    "title": "QA Automatizador (Semi Senior)",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-automatizador-tcit-santiago-0e9b"
+  },
+  {
+    "title": "QA Automatizador (Senior)",
+    "company": "TCIT",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-automatizador-tcit-santiago-bc24"
+  },
+  {
+    "title": "Diseñador de Ciberseguridad en Aplicaciones",
+    "company": "Sophos Solutions",
+    "location": "Remoto (Colombia)",
+    "modality": "Remoto (Colombia)",
+    "payment": null,
+    "published": "jun 17",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/cybersecurity/disenador-de-ciberseguridad-en-aplicaciones-sophos-solutions-remote-9111"
+  },
+  {
+    "title": "Desarrollador Front-end React Next.JS",
+    "company": "KTI Hunter",
+    "location": "Remoto (Chile)",
+    "modality": "Remoto (Chile)",
+    "payment": "2300 - 2500  USD/mes (Sueldo bruto)",
+    "published": "jun 16",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-frontend-react-next-js-kti-hunter-remote"
+  },
+  {
+    "title": "Arquitecto de Software",
+    "company": "KTI Hunter",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "2800 - 3500  USD/mes (Sueldo bruto)",
+    "published": "jun 16",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/arquitecto-de-software-kti-hunter-santiago"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Haystack News",
+    "location": "Lima (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "jun 16",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-engineer-haystack-news-lima-dbc2"
+  },
+  {
+    "title": "Android Engineer",
+    "company": "Haystack News",
+    "location": "Lima (Híbrido)",
+    "modality": "Híbrido",
+    "payment": null,
+    "published": "jun 16",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/android-engineer-haystack-news-lima-3ad4"
+  },
+  {
+    "title": "Arquitecto de Soluciones Semi Senior",
+    "company": "Sophos Solutions",
+    "location": "Remoto (Colombia)",
+    "modality": "Remoto (Colombia)",
+    "payment": null,
+    "published": "jun 15",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/arquitecto-de-soluciones-semi-senior-sophos-solutions-remote"
+  },
+  {
+    "title": "DevOps Especializado en Postgres",
+    "company": "RevenueHunt",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": null,
+    "published": "jun 15",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/devops-with-postgres-revenuehunt-remote"
+  },
+  {
+    "title": "Front-end Engineer",
+    "company": "Bookairfreight",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": "1800 - 2200  USD/mes (Sueldo bruto)",
+    "published": "jun 14",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/front-end-engineer-bookairfreight-remote-33e0"
+  },
+  {
+    "title": "Sr Back-end Developer (Django)",
+    "company": "Interfell",
+    "location": "Bogotá (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "3000 - 4000  USD/mes (Sueldo bruto)",
+    "published": "jun 14",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/sr-backend-developer-interfell-bogota"
+  },
+  {
+    "title": "Desarrollador Back-end Node.js Senior",
+    "company": "BCP",
+    "location": "Lima (Presencial)",
+    "modality": "Presencial",
+    "payment": null,
+    "published": "jun 14",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-backend-node-js-senior-bcp-lima"
+  },
+  {
+    "title": "Desarrollador Java/Python Senior",
+    "company": "Sophos Solutions",
+    "location": "Remoto (Colombia)",
+    "modality": "Remoto (Colombia)",
+    "payment": null,
+    "published": "jun 14",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-java-python-senior-sophos-solutions-remote"
+  },
+  {
+    "title": "Desarrollador Back-end Java Se / Python",
+    "company": "Sophos Solutions",
+    "location": "Remoto (Colombia)",
+    "modality": "Remoto (Colombia)",
+    "payment": null,
+    "published": "jun 14",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-backend-java-se-python-sophos-solutions-remote"
   },
   {
     "title": "Full-Stack Java Developer",
@@ -130,64 +440,14 @@
     "url": "https://www.getonbrd.com/empleos/programacion/analista-funcional-zerviz-remote-9827"
   },
   {
-    "title": "Desarrollador Full-Stack",
-    "company": "3IT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "1600 - 2000  USD/mes (Sueldo bruto)",
+    "title": "Full-Stack Developer CDMX",
+    "company": "Recorrido Latin America SpA",
+    "location": "Remoto (México)",
+    "modality": "Remoto (México)",
+    "payment": "4000 - 5000  USD/mes (Sueldo bruto)",
     "published": "jun 14",
     "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-full-stack-3it-santiago-ca96"
-  },
-  {
-    "title": "Analista de Sistemas",
-    "company": "3IT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "1900 - 2300  USD/mes (Sueldo bruto)",
-    "published": "jun 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/analista-de-sistemas-3it-santiago"
-  },
-  {
-    "title": "Senior Arquitecto de Soluciones",
-    "company": "23people",
-    "location": "Remoto (16",
-    "modality": "Remoto (16 ubicaciones)",
-    "payment": "4000 - 4200  USD/mes (Sueldo bruto)",
-    "published": "jun 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/senior-arquitecto-de-soluciones-23people-remote"
-  },
-  {
-    "title": "Líder de Desarrollo",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "jun 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/lider-de-desarrollo-tcit-santiago"
-  },
-  {
-    "title": "Chief Technology Officer (CTO)",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "jun 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/chief-technology-officer-cto-tcit-santiago"
-  },
-  {
-    "title": "Full-Stack Semi Senior",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "jun 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-semi-senior-tcit-santiago-f5a2"
+    "url": "https://www.getonbrd.com/empleos/programacion/fullstack-semisr-cdmx-recorrido-latin-america-spa-remote"
   },
   {
     "title": "Automatizador de Pruebas",
@@ -200,36 +460,6 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/automatizador-de-pruebas-was-senior-sophos-solutions-remote"
   },
   {
-    "title": "Ingeniero en Desarrollo Cloud",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "1500 - 2000  USD/mes (Sueldo bruto)",
-    "published": "jun 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/ingeniero-en-desarrollo-cloud-tcit-santiago-fcdc"
-  },
-  {
-    "title": "Analista QA Funcional (Semi Senior)",
-    "company": "TCIT",
-    "location": "Santiago (Presencial)",
-    "modality": "Presencial",
-    "payment": null,
-    "published": "jun 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/analista-qa-funcional-tcit-santiago"
-  },
-  {
-    "title": "Analista QA Funcional (Senior)",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "jun 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/analista-qa-funcional-tcit-santiago-d61f"
-  },
-  {
     "title": "Arquitecto Cloud Bilingüe",
     "company": "BC Tecnología",
     "location": "Santiago (Presencial)",
@@ -240,34 +470,14 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/arquitecto-cloud-bilingue-bc-tecnologia-santiago"
   },
   {
-    "title": "Senior DevOps Bilingüe",
-    "company": "23people",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "3800  USD/mes (Sueldo bruto)",
-    "published": "jun 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/senior-devops-23people-santiago"
-  },
-  {
-    "title": "QA Automatizador (Semi Senior)",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
+    "title": "Cybersecurity Threat Hunter",
+    "company": "HSBC",
+    "location": "Ciudad de México (Híbrido)",
     "modality": "Híbrido",
     "payment": null,
     "published": "jun 14",
     "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-automatizador-tcit-santiago-0e9b"
-  },
-  {
-    "title": "QA Automatizador (Senior)",
-    "company": "TCIT",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "jun 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-automatizador-tcit-santiago-bc24"
+    "url": "https://www.getonbrd.com/empleos/cybersecurity/threat-hunter-hsbc-ciudad-de-mexico"
   },
   {
     "title": "Desarrollador/a SAP Fiori BTP",
@@ -370,16 +580,6 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/automatizador-qa-global-mobility-apex-s-a-remote-beb9"
   },
   {
-    "title": "QA Engineer",
-    "company": "Haystack News",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "jun 13",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-engineer-haystack-news-lima-dbc2"
-  },
-  {
     "title": "Account Manager AWS Channel Manager",
     "company": "Hackmetrix",
     "location": "Bogotá o MedellínSantiagoCiudad de México (Híbrido)",
@@ -408,16 +608,6 @@
     "published": "jun 13",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/cybersecurity/arquitecto-de-seguridad-de-desarrollo-kibernum-remote"
-  },
-  {
-    "title": "Android Engineer",
-    "company": "Haystack News",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "jun 13",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/android-engineer-haystack-news-lima-3ad4"
   },
   {
     "title": "Developer iOS",
@@ -460,26 +650,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/programmer-movilgate-remote"
   },
   {
-    "title": "Full-Stack Angular",
-    "company": "KTI Hunter",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "1900 - 2500  USD/mes (Sueldo bruto)",
-    "published": "jun 12",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/fullstack-kti-hunter-santiago-32e4"
-  },
-  {
-    "title": "Blockchain Developer",
-    "company": "FULLTIMEFORCE",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": null,
-    "published": "jun 12",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/blockchain-expert-fulltimeforce-remote"
-  },
-  {
     "title": "Desarrollador Full-Stack",
     "company": "PopEstate",
     "location": "Santiago (Híbrido)",
@@ -488,6 +658,16 @@
     "published": "jun 12",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-full-stack-popestate-santiago"
+  },
+  {
+    "title": "Full-Stack Angular",
+    "company": "KTI Hunter",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "1900 - 2500  USD/mes (Sueldo bruto)",
+    "published": "jun 12",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/fullstack-kti-hunter-santiago-32e4"
   },
   {
     "title": "DevOps Exp Nube Oracle",
@@ -560,16 +740,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-abap-sap-bogota-bilingue-kibernum-bogota"
   },
   {
-    "title": "RoR React Developer",
-    "company": "Rankmi",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": null,
-    "published": "jun 11",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/fullstack-developer-rankmi-remote-82fc"
-  },
-  {
     "title": "Desarrollador ABAP SAP Bilingüe",
     "company": "Kibernum",
     "location": "Bogotá (Híbrido)",
@@ -588,16 +758,6 @@
     "published": "jun 11",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-java-interfell-remote"
-  },
-  {
-    "title": "Arquitecto de Software",
-    "company": "KTI Hunter",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "2800 - 3500  USD/mes (Sueldo bruto)",
-    "published": "jun 11",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/arquitecto-de-software-kti-hunter-santiago"
   },
   {
     "title": "QA Automation Engineer Sector Financiero",
@@ -760,16 +920,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-full-stack-kibernum-santiago-e807"
   },
   {
-    "title": "Ingeniero en Redes, Telecomunicaciones",
-    "company": "Agilesoft SpA",
-    "location": "Santiago (Presencial)",
-    "modality": "Presencial",
-    "payment": null,
-    "published": "jun 07",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/ingeniero-en-redes-telecomunicaciones-agilesoft-spa-santiago"
-  },
-  {
     "title": "Desarrollador Full-Stack",
     "company": "Kibernum",
     "location": "Remoto",
@@ -798,6 +948,16 @@
     "published": "jun 07",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-front-end-zerviz-remote-cee8"
+  },
+  {
+    "title": "Ingeniero en Redes, Telecomunicaciones",
+    "company": "Agilesoft SpA",
+    "location": "Santiago (Presencial)",
+    "modality": "Presencial",
+    "payment": null,
+    "published": "jun 07",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/ingeniero-en-redes-telecomunicaciones-agilesoft-spa-santiago"
   },
   {
     "title": "Ingeniero de Datos",
@@ -1048,16 +1208,6 @@
     "published": "jun 06",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/cybersecurity/ethical-hacker-gesquim-sas-remote"
-  },
-  {
-    "title": "Android Developer",
-    "company": "Global Mobility Apex, S.A.",
-    "location": "Remoto (9",
-    "modality": "Remoto (9 ubicaciones)",
-    "payment": null,
-    "published": "jun 06",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/android-developer-global-mobility-apex-s-a-remote"
   },
   {
     "title": "Full-Stack Engineer",
@@ -1390,16 +1540,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/back-end-developer-node-aws-leniolabs_-remote"
   },
   {
-    "title": "Desarrollador Front-end React Next.JS",
-    "company": "KTI Hunter",
-    "location": "Remoto (Chile)",
-    "modality": "Remoto (Chile)",
-    "payment": "2300 - 2500  USD/mes (Sueldo bruto)",
-    "published": "jun 02",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-frontend-react-next-js-kti-hunter-remote"
-  },
-  {
     "title": "Desarrollador Back-end Python",
     "company": "KTI Hunter",
     "location": "Remoto (Chile)",
@@ -1408,6 +1548,16 @@
     "published": "jun 02",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-backend-python-kti-hunter-remote"
+  },
+  {
+    "title": "Data Engineer Proyecto",
+    "company": "Kibernum",
+    "location": "Remoto",
+    "modality": "Remoto",
+    "payment": null,
+    "published": "jun 01",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/data-engineer-proyecto-kibernum-remote"
   },
   {
     "title": "Data Engineer",
@@ -1430,46 +1580,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/software-engineer-lemontech-remote"
   },
   {
-    "title": "Data Engineer Proyecto",
-    "company": "Kibernum",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": null,
-    "published": "jun 01",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/data-engineer-proyecto-kibernum-remote"
-  },
-  {
-    "title": "Chief Technology Officer",
-    "company": "Guinea Mobile SAC (Cuy Móvil)",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "2500 - 4000  USD/mes (Sueldo bruto)",
-    "published": "may 31",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/chief-technology-officer-guinea-mobile-sac-cuy-movil-lima"
-  },
-  {
-    "title": "Back-end Engineer, Semi Senior",
-    "company": "ProfeJOBS",
-    "location": "Remoto (Argentina)",
-    "modality": "Remoto (Argentina)",
-    "payment": "1000 - 1700  USD/mes (Sueldo bruto)",
-    "published": "may 31",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/backend-engineer-semi-senior-profejobs-remote"
-  },
-  {
-    "title": "Data Engineer! 🚀",
-    "company": "Kibernum",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "2500 - 2900  USD/mes (Sueldo bruto)",
-    "published": "may 31",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/data-engineer-kibernum-santiago-82d8"
-  },
-  {
     "title": "Líder Técnico",
     "company": "Dirección ChileCompra",
     "location": "Santiago (Híbrido)",
@@ -1490,6 +1600,16 @@
     "url": "https://www.getonbrd.com/empleos/programacion/senior-drupal-engineer-devsu-remote-92fa"
   },
   {
+    "title": "Back-end Engineer, Semi Senior",
+    "company": "ProfeJOBS",
+    "location": "Remoto (Argentina)",
+    "modality": "Remoto (Argentina)",
+    "payment": "1000 - 1700  USD/mes (Sueldo bruto)",
+    "published": "may 31",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/backend-engineer-semi-senior-profejobs-remote"
+  },
+  {
     "title": "Full-Stack Angular + Java",
     "company": "LILAB",
     "location": "Ica (Híbrido)",
@@ -1498,6 +1618,16 @@
     "published": "may 31",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/full-stack-angular-java-lilab-ica-13a2"
+  },
+  {
+    "title": "Chief Technology Officer",
+    "company": "Guinea Mobile SAC (Cuy Móvil)",
+    "location": "Lima (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "2500 - 4000  USD/mes (Sueldo bruto)",
+    "published": "may 31",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/chief-technology-officer-guinea-mobile-sac-cuy-movil-lima"
   },
   {
     "title": "Analista Funcional",
@@ -1518,6 +1648,16 @@
     "published": "may 31",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/software-engineer-tecla-remote-c0ae"
+  },
+  {
+    "title": "Data Engineer! 🚀",
+    "company": "Kibernum",
+    "location": "Santiago (Híbrido)",
+    "modality": "Híbrido",
+    "payment": "2500 - 2900  USD/mes (Sueldo bruto)",
+    "published": "may 31",
+    "year": 2024,
+    "url": "https://www.getonbrd.com/empleos/programacion/data-engineer-kibernum-santiago-82d8"
   },
   {
     "title": "Jefe de Proyecto QA",
@@ -1630,16 +1770,6 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-automation-leniolabs_-remote-2e20"
   },
   {
-    "title": "Test Automation Engineer",
-    "company": "Moventi",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "1800 - 2200  USD/mes (Sueldo bruto)",
-    "published": "may 30",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/test-automation-engineer-moventi-lima"
-  },
-  {
     "title": "Analista de Observabilidad",
     "company": "BICE VIDA",
     "location": "Santiago (Híbrido)",
@@ -1718,16 +1848,6 @@
     "published": "may 29",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/fullstack-angular-rest-kti-hunter-santiago"
-  },
-  {
-    "title": "WordPress Developer – Woocommerce Specialist",
-    "company": "TVUP Streaming Media",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": "2000 - 3000  USD/mes (Sueldo bruto)",
-    "published": "may 29",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/wordpress-developer-woocommerce-specialist-tvup-streaming-media-remote"
   },
   {
     "title": "Full-Stack Developer",
@@ -1980,16 +2100,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/developer-front-web-kibernum-remote"
   },
   {
-    "title": "Sr Back-end Developer (Django)",
-    "company": "Interfell",
-    "location": "Bogotá (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "2800 - 3500  USD/mes (Sueldo bruto)",
-    "published": "may 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/sr-backend-developer-interfell-bogota"
-  },
-  {
     "title": "Desarrollador WordPress",
     "company": "MATCH · Agencia-consultora",
     "location": "Remoto",
@@ -2018,16 +2128,6 @@
     "published": "may 24",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/ingeniero-de-redes-mobile-kibernum-remote"
-  },
-  {
-    "title": "Cloud Engineer",
-    "company": "Alegra",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": null,
-    "published": "may 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/cloud-engineer-alegra-remote-030b"
   },
   {
     "title": "Iso 27001 Consultant",
@@ -2208,16 +2308,6 @@
     "published": "may 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/developer-net-agilesoft-spa-remote"
-  },
-  {
-    "title": "Ingeniero Facilities (Climatización)",
-    "company": "Agrosuper",
-    "location": "Rancagua (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "may 17",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/ingeniero-facilities-electrico-agrosuper-rancagua"
   },
   {
     "title": "Tech Lead",
@@ -2830,16 +2920,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/back-end-developer-hibrido-sophos-solutions-ciudad-de-mexico"
   },
   {
-    "title": "Full-Stack .NET / Angular",
-    "company": "Sophos Solutions",
-    "location": "Remoto (Colombia)",
-    "modality": "Remoto (Colombia)",
-    "payment": null,
-    "published": "may 07",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/fullstack-net-angular-sophos-solutions-remote"
-  },
-  {
     "title": "Consultor Técnico Funcional Flexcube",
     "company": "Sophos Solutions",
     "location": "Remoto",
@@ -3320,16 +3400,6 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/analista-qa-funcional-s3-chile-santiago"
   },
   {
-    "title": "Ingeniero Sistemas Operacion Cloud TI",
-    "company": "Kibernum",
-    "location": "Santiago (Híbrido)",
-    "modality": "Híbrido",
-    "payment": "1600 - 2000  USD/mes (Sueldo bruto)",
-    "published": "abr 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/ingeniero-sistemas-operacion-cloud-ti-kibernum-santiago"
-  },
-  {
     "title": "Mobile Developer",
     "company": "Leniolabs_",
     "location": "Remoto (4",
@@ -3420,16 +3490,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/data-engineer-remoto-kibernum-remote"
   },
   {
-    "title": "Xamarin Engineer Senior",
-    "company": "Moventi",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": "2800 - 3800  USD/mes (Sueldo bruto)",
-    "published": "abr 19",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/xamarin-engineer-senior-moventi-remote"
-  },
-  {
     "title": "Analista QA",
     "company": "I2B Technologies",
     "location": "Santiago (Híbrido)",
@@ -3490,16 +3550,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/senior-react-app-developer-leniolabs_-remote"
   },
   {
-    "title": "Ingeniero de Desarrollo (.NET + MySQL)",
-    "company": "Kibernum",
-    "location": "Santiago (Presencial)",
-    "modality": "Presencial",
-    "payment": null,
-    "published": "abr 17",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/ingeniero-de-desarrollo-net-mysql-kibernum-santiago"
-  },
-  {
     "title": "Senior Front-end Developer",
     "company": "Leniolabs_",
     "location": "Remoto (4",
@@ -3538,26 +3588,6 @@
     "published": "abr 17",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/consultant-qa-zephyr-eazybi-kibernum-santiago"
-  },
-  {
-    "title": "Líder Técnico Mobile",
-    "company": "Moventi",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "abr 16",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/lider-tecnico-mobile-moventi-lima-05e4"
-  },
-  {
-    "title": "iOS/Tvos Developer",
-    "company": "TVUP Streaming Media",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": "2500 - 3500  USD/mes (Sueldo bruto)",
-    "published": "abr 16",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/ios-appletv-developer-tvup-media-telecom-remote"
   },
   {
     "title": "2.\tDesarrollador Front-end (React y Angular)",
@@ -3890,16 +3920,6 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-tester-banco-de-credito-bolivia-la-paz"
   },
   {
-    "title": "Developer Full-Stack .NET",
-    "company": "Moventi",
-    "location": "Remoto (Perú)",
-    "modality": "Remoto (Perú)",
-    "payment": null,
-    "published": "abr 04",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-net-moventi-remote-745d"
-  },
-  {
     "title": "Desarrollador Front-end",
     "company": "ZeroQ",
     "location": "Remoto",
@@ -4120,16 +4140,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/programador-full-stack-haciendola-santiago-e6c3"
   },
   {
-    "title": "Desarrollador Back-end Java (Semi Senior)",
-    "company": "Moveapps",
-    "location": "Remoto",
-    "modality": "Remoto",
-    "payment": "1800 - 2100  USD/mes (Sueldo bruto)",
-    "published": "mar 26",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-back-end-java-semi-senior-moveapps-remote"
-  },
-  {
     "title": "Arquitecto de Soluciones",
     "company": "Prodig.io",
     "location": "Remoto (Sudamérica)",
@@ -4230,16 +4240,6 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/administrador-de-base-de-datos-oracle-sonda-sa-santiago"
   },
   {
-    "title": "QA Data Junior",
-    "company": "Moventi",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "mar 25",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-data-junior-moventi-lima"
-  },
-  {
     "title": "QA Funcional",
     "company": "Moventi",
     "location": "Lima (Híbrido)",
@@ -4258,16 +4258,6 @@
     "published": "mar 24",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/fronted-engineer-en-react-kibernum-remote"
-  },
-  {
-    "title": "Back-end Developer Junior",
-    "company": "Moventi",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "mar 23",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/backend-developer-junior-moventi-lima"
   },
   {
     "title": "Desarrollador .NET",
@@ -4510,16 +4500,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/backend-developer-bc5749-nisum-latam-remote"
   },
   {
-    "title": ".NET Semisenior Developer",
-    "company": "Moventi",
-    "location": "Remoto (Sudamérica)",
-    "modality": "Remoto (Sudamérica)",
-    "payment": "2000 - 2500  USD/mes (Sueldo bruto)",
-    "published": "mar 14",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/net-semisenior-developer-moventi-remote"
-  },
-  {
     "title": "Data Engineer",
     "company": "WiTi",
     "location": "Remoto",
@@ -4670,16 +4650,6 @@
     "url": "https://www.getonbrd.com/empleos/sysadmin-devops-qa/senior-node-js-serverless-developer-aws-leniolabs_-remote"
   },
   {
-    "title": "Líder Técnico Front",
-    "company": "Moventi",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "mar 05",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/lider-tecnico-front-moventi-lima-899b"
-  },
-  {
     "title": "Semi Senior Front-end Developer",
     "company": "Modyo",
     "location": "Remoto (Chile)",
@@ -4728,16 +4698,6 @@
     "published": "feb 27",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/ingeniero-a-de-software-gatblac-remote-66a9"
-  },
-  {
-    "title": "Kotlin Middle Engineer",
-    "company": "Moventi",
-    "location": "Remoto (Sudamérica)",
-    "modality": "Remoto (Sudamérica)",
-    "payment": "2300 - 3300  USD/mes (Sueldo bruto)",
-    "published": "feb 27",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/kotlin-middle-engineer-moventi-remote"
   },
   {
     "title": "Salesforce Developer",
@@ -5120,16 +5080,6 @@
     "url": "https://www.getonbrd.com/empleos/programacion/angular-developer-dacodes-remote"
   },
   {
-    "title": "Full-Stack .NET Developer",
-    "company": "Moventi",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "ene 24",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/programacion/full-stack-net-developer-moventi-lima"
-  },
-  {
     "title": "Desarrollador Senior Full-Stack",
     "company": "Kibernum",
     "location": "Remoto (Chile)",
@@ -5188,16 +5138,6 @@
     "published": "ene 19",
     "year": 2024,
     "url": "https://www.getonbrd.com/empleos/programacion/desarrollador-plataform-kibernum-santiago"
-  },
-  {
-    "title": "iOS Developer Trainee Pro",
-    "company": "Moventi",
-    "location": "Lima (Híbrido)",
-    "modality": "Híbrido",
-    "payment": null,
-    "published": "ene 19",
-    "year": 2024,
-    "url": "https://www.getonbrd.com/empleos/desarrollo-mobile/ios-developer-trainee-pro-moventi-lima"
   },
   {
     "title": "Ingeniero Infraestructura",
